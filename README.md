@@ -11,7 +11,7 @@
 ![High Profile Bottom](https://github.com/catrielmuller/open-fan-hub/blob/main/renders/high_profile_two.jpg?raw=true)
 ![High Profile Top](https://github.com/catrielmuller/open-fan-hub/blob/main/renders/high_profile_three.jpg?raw=true)
 
-## 3D printed Models
+## 3D Printed Models
 
 ### Enclosure
 - [Low Profile](https://github.com/catrielmuller/open-fan-hub/blob/main/enclosure/stl/low-profile.stl)
