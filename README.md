@@ -8,7 +8,7 @@
 
 ### High Profile
 ![High Profile Side](https://github.com/catrielmuller/open-fan-hub/blob/main/renders/high_profile_one.jpg?raw=true)
-![High Profile Bottom](https://github.com/catrielmuller/open-fan-hub/blob/main/renders/high_profile_two.jpg.jpg?raw=true)
+![High Profile Bottom](https://github.com/catrielmuller/open-fan-hub/blob/main/renders/high_profile_two.jpg?raw=true)
 ![High Profile Top](https://github.com/catrielmuller/open-fan-hub/blob/main/renders/high_profile_three.jpg?raw=true)
 
 ## 3D printed Models
